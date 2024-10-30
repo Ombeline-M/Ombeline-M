@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ombeline-M
 - 👀 I’m interested in Arts and Culture and AI 
-- 🌱 I’m currently learning Neuroscience Coaching
+- 🌱 I’m currently learning how the creative brain works
 - 💞️ I’m looking to collaborate on AI Creative Projects
 
 
