@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ombeline-M
 - 👀 I’m passionate about Arts, Nature and AI 
 - 🌱 I’m currently exploring the Future of Art and AI
-- 💞️ I’m looking to collaborate on leading-edge AI Creative Projects
+- 💞️ I’m looking forward to the next leading-edge AI Creative Projects
 
 
 <!---
